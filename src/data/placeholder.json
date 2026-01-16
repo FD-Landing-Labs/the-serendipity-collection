@@ -1,16 +1,16 @@
 {
   "site": {
-    "name": "Grandeur",
+    "name": "The Serendipity Collection",
     "tagline": "Luxury Hotel & Resort",
-    "description": "Experience unparalleled luxury at Grandeur - where timeless elegance meets modern sophistication. A 5-star sanctuary for discerning travelers.",
+    "description": "Experience unparalleled luxury at The Serendipity Collection - where timeless elegance meets modern sophistication. A 5-star sanctuary for discerning travelers.",
     "logo": {
-      "default": "https://placehold.co/140x50/1a1a1a/c9a962?text=GRANDEUR",
-      "white": "https://placehold.co/140x50/ffffff/1a1a1a?text=GRANDEUR",
-      "alt": "Grandeur Luxury Hotel Logo"
+      "default": "https://placehold.co/140x50/1a1a1a/c9a962?text=THE%20SERENDIPITY%20COLLECTION",
+      "white": "https://placehold.co/140x50/ffffff/1a1a1a?text=THE%20SERENDIPITY%20COLLECTION",
+      "alt": "The Serendipity Collection Luxury Hotel Logo"
     },
     "seo": {
-      "title": "Grandeur - 5-Star Luxury Hotel & Resort",
-      "description": "Discover exceptional hospitality at Grandeur. World-class amenities, exquisite dining, and breathtaking views await you at our prestigious 5-star hotel.",
+      "title": "The Serendipity Collection - 5-Star Luxury Hotel & Resort",
+      "description": "Discover exceptional hospitality at The Serendipity Collection. World-class amenities, exquisite dining, and breathtaking views await you at our prestigious 5-star hotel.",
       "keywords": [
         "luxury hotel",
         "5-star resort",
@@ -19,7 +19,7 @@
         "spa resort",
         "boutique hotel"
       ],
-      "ogImage": "https://placehold.co/1200x630/1a1a1a/c9a962?text=Grandeur+Hotel"
+      "ogImage": "https://placehold.co/1200x630/1a1a1a/c9a962?text=The%20Serendipity%20Collection+Hotel"
     },
     "theme": {
       "primaryColor": "#c9a962",
@@ -29,12 +29,12 @@
     }
   },
   "navbar": {
-    "brandName": "Grandeur",
+    "brandName": "The Serendipity Collection",
     "brandMark": "",
     "logo": {
       "default": "/assets/images/logo.png",
-      "white": "https://placehold.co/140x50/ffffff/1a1a1a?text=GRANDEUR",
-      "alt": "Grandeur Luxury Hotel Logo"
+      "white": "https://placehold.co/140x50/ffffff/1a1a1a?text=THE%20SERENDIPITY%20COLLECTION",
+      "alt": "The Serendipity Collection Luxury Hotel Logo"
     },
     "barLinks": [
       {
@@ -101,12 +101,12 @@
       }
     ],
     "featured": {
-      "studioName": "Grandeur Hotel",
+      "studioName": "The Serendipity Collection Hotel",
       "image": "https://placehold.co/600x800/1a1a1a/c9a962?text=Featured",
       "copyright": "2026 All rights reserved"
     },
     "contact": {
-      "email": "reservations@grandeur.com",
+      "email": "reservations@tsch.com",
       "phone": "+1 (555) 789-0123"
     },
     "socialLinks": [
@@ -125,7 +125,7 @@
     ]
   },
   "hero": {
-    "brandName": "Grandeur",
+    "brandName": "The Serendipity Collection",
     "description": "We help discerning travelers discover extraordinary stays with clarity—featuring curated accommodations and seamless luxury service.",
     "image": "/assets/images/hero.avif",
     "cta": {
@@ -189,7 +189,7 @@
     "places": [
       {
         "id": "bar",
-        "title": "The Grandeur Bar",
+        "title": "The The Serendipity Collection Bar",
         "description": "The bar is the social heart of the hotel—a sophisticated space designed for craft cocktails, fine spirits, and elegant evenings.",
         "image": "/assets/images/rooms/bar.png",
         "size": "200 m2",
@@ -240,12 +240,12 @@
     "rooms": [
       {
         "id": "bar",
-        "name": "The Grandeur Bar",
+        "name": "The The Serendipity Collection Bar",
         "description": "The bar is the social heart of the hotel—a sophisticated space designed for craft cocktails, fine spirits, and elegant evenings with live jazz performances.",
         "image": "/assets/images/floor/bar.jpg",
         "details": {
           "rooms": "1",
-          "location": "Ground Floor, Grandeur Tower",
+          "location": "Ground Floor, The Serendipity Collection Tower",
           "designer": "Studio Luxe Interiors",
           "available": "Premium Spirits, Craft Cocktails, Live Music, VIP Lounge",
           "size": "200 sqm"
@@ -271,7 +271,7 @@
         "image": "/assets/images/floor/premium.png",
         "details": {
           "rooms": "1",
-          "location": "Floors 5-10, Grandeur Tower",
+          "location": "Floors 5-10, The Serendipity Collection Tower",
           "designer": "Studio Luxe Interiors",
           "available": "King Bed, City View, Rain Shower, Mini Bar",
           "size": "45 sqm"
@@ -341,7 +341,7 @@
   "cities": {
     "sectionLabel": "Locations",
     "headline": "Featured cities",
-    "description": "Experience the Grandeur difference across our collection of prestigious properties in the world's most coveted destinations.",
+    "description": "Experience the The Serendipity Collection difference across our collection of prestigious properties in the world's most coveted destinations.",
     "locations": [
       {
         "id": "dubai",
@@ -398,7 +398,7 @@
         "id": "testimonial-1",
         "name": "Maria Thompson",
         "role": "Frequent Guest",
-        "quote": "Grandeur made our anniversary celebration incredibly special. Their attention to detail, responsiveness, and personalized service helped us create memories that will last forever.",
+        "quote": "The Serendipity Collection made our anniversary celebration incredibly special. Their attention to detail, responsiveness, and personalized service helped us create memories that will last forever.",
         "avatar": "/assets/images/avatar/1.jpg"
       },
       {
@@ -419,7 +419,7 @@
         "id": "testimonial-4",
         "name": "David Chen",
         "role": "Family Vacation",
-        "quote": "Traveling with kids can be challenging, but Grandeur made it effortless. The staff went above and beyond to ensure our whole family felt welcome.",
+        "quote": "Traveling with kids can be challenging, but The Serendipity Collection made it effortless. The staff went above and beyond to ensure our whole family felt welcome.",
         "avatar": "/assets/images/avatar/4.jpg"
       }
     ]
@@ -469,11 +469,11 @@
       "headline": "Let's plan your perfect stay",
       "subtitle": "Ready to experience luxury? Our concierge team is here to help",
       "buttonLabel": "Get in touch",
-      "buttonHref": "mailto:reservations@grandeur.com",
+      "buttonHref": "mailto:reservations@tsch.com",
       "backgroundImage": "/assets/images/footer.jpg"
     },
     "brand": {
-      "name": "Grandeur"
+      "name": "The Serendipity Collection"
     },
     "navMenu": {
       "title": "Nav menu",
@@ -528,7 +528,7 @@
     "contact": {
       "title": "Contact",
       "phone": "+1 (555) 789-0123",
-      "email": "reservations@grandeur.com",
+      "email": "reservations@tsch.com",
       "address": "123 Luxury Avenue, Manhattan, New York"
     },
     "newsletter": {
@@ -553,6 +553,6 @@
         "icon": "instagram"
       }
     ],
-    "copyright": "2026 Grandeur Hotels & Resorts. All rights reserved."
+    "copyright": "2026 The Serendipity Collection Hotels & Resorts. All rights reserved."
   }
 }
